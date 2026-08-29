@@ -1,8 +1,9 @@
-# 💫 About Me:
-Hi, I'm King Jethro Jerry 👑
+# About Me:
+Hi, I'm King Jethro Jerry 
 
-🧠 Cybersecurity student at Lincoln University College  
-🧑‍💻 Computer Science student at Lincoln University College  
+Cybersecurity student  
+Computer Science student  
+Footballer
 ✨ I turn ideas into useful tools and digital experiences — from full-stack apps to mobile frameworks.
 
 ---
@@ -22,20 +23,20 @@ Hi, I'm King Jethro Jerry 👑
 
 ---
 
-## 🌍 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/king-jethro-jerry)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://jethroportfolio.vercel.app)
 
 ---
 
-## ⚽ Hobbies
+## Hobbies
 - Football/Soccer ⚽
-- Jump Roping 🔗
+- Jump Roping
 - Sprinting 🏃‍♂️
 
 ---
 
-## 🏗️ Favorite Projects
+## Favorite Projects
 
 - [AquillaBlog](https://github.com/kingjethro999/aquillablog) — A semester 3 PSA project for Aquilla Cyber  
   <sub>TypeScript (99.5%)</sub>
@@ -62,12 +63,12 @@ Hi, I'm King Jethro Jerry 👑
 
 ---
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kingjethro999&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kingjethro999&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kingjethro999&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kingjethro999&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
 
 ---
