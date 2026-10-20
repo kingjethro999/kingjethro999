@@ -1,0 +1,39 @@
+name: Generate Snake
+
+on:
+  schedule:
+    # Run automatically every 24 hours
+    - cron: "0 0 * * *"
+
+  # Allows manual triggers from the GitHub Actions tab
+  workflow_dispatch:
+
+  # Run on every push to main
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      # Generates a snake game from a github user's contributions graph using the gitlab-dark palette
+      - name: Generate github-user-contribution.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-user-contribution.svg?palette=gitlab-dark
+
+      # Push the generated SVG to the "output" branch so main branch commit history stays clean
+      - name: Push github-user-contribution.svg to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
