@@ -6,7 +6,7 @@ I build developer tooling, autonomous AI agents, native utilities, and interacti
 
 ---
 
-### 🔨 What I'm Actively Building
+### What I'm Actively Building
 
 - **[Automator](https://github.com/kingjethro999/automator)** — A watched-mode AI computer operator featuring an observed UI execution timeline, AI cursor overlay, and desktop/OS automation skills.
 - **[Zyrk](https://github.com/kingjethro999/zyrk)** — A storage-efficient Node package manager built around a global content-addressable store and symlink/hardlink resolution.
@@ -15,7 +15,7 @@ I build developer tooling, autonomous AI agents, native utilities, and interacti
 
 ---
 
-### 🚀 Selected Work & Tooling
+### Selected Work & Tooling
 
 | Project | Focus | Description |
 | :--- | :--- | :--- |
@@ -74,7 +74,7 @@ I build developer tooling, autonomous AI agents, native utilities, and interacti
 
 ---
 
-### 📈 Contribution Activity
+### Contribution Activity
 
 <div align="center">
   <picture>
@@ -95,7 +95,7 @@ If you find my open-source tools and developer projects useful, you can support 
 
 ---
 
-### ⚡ Beyond the Terminal
+### Beyond the Terminal
 
 - **Footballer & Athlete:** When not behind the keyboard, I'm on the pitch or training. The athleticism, pace, and discipline I cultivate in football directly shape my work ethic, focus, and stamina as an engineer.
 
