@@ -1,7 +1,6 @@
 # Hi, I'm King Jethro 👋
 
-**Software Engineer · Bug Bounty Hunter · Systems & AI Builder · Athlete**  
-📍 Nigeria
+**Software Engineer · Bug Bounty Hunter · Systems & AI Builder · Athlete**
 
 I build developer tooling, autonomous AI agents, native utilities, and interactive 3D web systems, alongside offensive security and vulnerability hunting. Rather than sticking to comfortable boilerplate, I focus on systems thinking — building tools that eliminate friction for developers and securing digital infrastructure.
 
