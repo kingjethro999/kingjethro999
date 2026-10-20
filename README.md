@@ -25,7 +25,6 @@ I build developer tooling, autonomous AI agents, native utilities, and interacti
 | **[D.A.R.K](https://github.com/kingjethro999/D.A.R.K)** | Android / Kotlin | Developers' Adaptive Responsive Kernel: a minimalist, OLED-black launcher with an embedded Linux terminal. |
 | **[3d-viewre](https://github.com/kingjethro999/3d-viewre)** | 3D Graphics / Web | High-performance in-browser 3D model viewer and topology inspector (GLB, OBJ, STL, PLY, FBX) with 100% private client-side rendering. |
 | **[GOO](https://github.com/kingjethro999/goo)** | AI / Systems (Go) | Terminal-first agentic coding assistant with MCP integration, parallel sub-agents, and 3-tier safety gating. |
-| **[Web Ball](https://github.com/kingjethro999/web-ball)** | Game / Three.js | Original browser football career game built with Three.js, supporting gamepad, keyboard, and touch controls. |
 | **[Accel_Sim](https://github.com/kingjethro999/Accel_Sim)** | ML Systems (Python) | CPU-based estimator predicting latency and memory footprint of Transformer workloads on GPUs/TPUs. |
 | **[Figma MCP](https://github.com/kingjethro999/figma-mcp)** | Dev Tools / MCP | Model Context Protocol bridge turning Figma designs directly into component code inside agentic IDEs. |
 
